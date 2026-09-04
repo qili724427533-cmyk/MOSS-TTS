@@ -710,6 +710,7 @@ We compare **MOSS Audio Tokenizer** with open-source audio tokenizers on the Lib
 
 ### 🌟 Community Projects
 The MOSS-TTS community has been growing rapidly, and we’re delighted to showcase some outstanding projects and features built by community members:
+- **[MOSS-TTS ComfyUI](https://github.com/CloudRipple/MOSS-TTS-ComfyUI)** — A ComfyUI node pack for the MOSS-TTS family (Registry id `moss-tts`), maintained by members of OpenMOSS team. Supports zero-shot voice cloning, continuation, and duration control.
 - **[ComfyUI-MOSS-TTS](https://github.com/richservo/comfyui-moss-tts)** A MOSS-TTS extension for ComfyUI.
 - **[MOSS-TTS-OpenAI](https://github.com/dasilva333/moss-tts-openai)** An OpenAI-compatible TTS API for MOSS-TTS.
 - **[AnyPod](https://github.com/rulerman/AnyPod)** A podcast generation tool using MOSS-TTS/MOSS-TTSD as the backend.

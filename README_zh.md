@@ -721,6 +721,7 @@ $T_{\text{LLM-first-sentence}} + T_{\text{MOSS-TTS-Realtime-TTFB}} = 197ms + 180
 
 ### 🌟 社区项目
 MOSS-TTS 社区正在快速发展，我们也很高兴展示一些由社区成员构建的优秀项目与功能：
+- **[MOSS-TTS ComfyUI](https://github.com/CloudRipple/MOSS-TTS-ComfyUI)**：面向 ComfyUI 的 MOSS-TTS 系列节点包（Registry ID `moss-tts`），由 OpenMOSS 团队成员维护。支持零样本克隆、续写与时长控制。
 - **[ComfyUI-MOSS-TTS](https://github.com/richservo/comfyui-moss-tts)**：面向 ComfyUI 的 MOSS-TTS 扩展。
 - **[MOSS-TTS-OpenAI](https://github.com/dasilva333/moss-tts-openai)**：兼容 OpenAI 接口的 MOSS-TTS API。
 - **[AnyPod](https://github.com/rulerman/AnyPod)**：以 MOSS-TTS/MOSS-TTSD 作为后端的播客生成工具。
